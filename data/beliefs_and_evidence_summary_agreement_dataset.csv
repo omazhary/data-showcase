@@ -1,0 +1,13 @@
+Question,Class Average,Paper Average,Class Variance,Paper Variance
+Fixing defects is riskier (more likely to cause future defects) than adding new features.,2.55,2.63,0.92,1.08
+Code quality (defect occurrence) depends on which programming language is used.,2.97,3.17,1.50,1.16
+Geographically distributed teams produce code whose quality is just as good as that of teams that aren't geographically distributed.,3.55,2.86,1.32,1.07
+"When it comes to producing code with fewer defects, specific experience in the project matters more than overall programming experience.",3.45,3.50,0.92,1.06
+Stronger code ownership (fewer people owning a module or a file) leads to better code quality.,3.32,3.75,1.03,1.02
+Merge commits are buggier than other commits.,3.33,3.40,0.78,0.97
+Components with more unit tests have fewer customer-found defects.,3.29,3.85,1.08,0.95
+More defects are found in more complex code.,3.97,4.00,1.03,0.93
+Using assertions improves code quality.,3.65,3.78,0.50,0.89
+Using static analysis improves code quality.,3.77,3.77,0.60,0.87
+Coding standards help improve code quality.,4.23,4.18,0.65,0.79
+Code review improves code quality.,4.58,4.48,0.38,0.64
